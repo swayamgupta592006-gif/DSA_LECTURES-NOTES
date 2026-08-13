@@ -1,0 +1,4 @@
+a, baa
+ab, aa
+aba, a
+abaa, 
